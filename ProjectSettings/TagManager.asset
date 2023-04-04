@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TankRed2
+  - TankGreen2
+  - SpeedTag
+  - Canvas
+  - YouWonGreen
+  - YouWonRed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tracks
+    uniqueID: 3668039477
+    locked: 0
+  - name: Hull
+    uniqueID: 1926028235
+    locked: 0
+  - name: Gun
+    uniqueID: 776400695
+    locked: 0
+  - name: Tower
+    uniqueID: 3051400649
+    locked: 0
+  - name: Bullet
+    uniqueID: 1605144431
+    locked: 0
+  - name: Wall
+    uniqueID: 107374729
+    locked: 0
+  - name: Particle
+    uniqueID: 3451212787
+    locked: 0
+  - name: Text
+    uniqueID: 3654254733
+    locked: 0
+  - name: Powerup
+    uniqueID: 1338250033
+    locked: 0
